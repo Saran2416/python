@@ -10,3 +10,4 @@ def uppercase(password):
 			return True
 	return False
 length(password)
+#hello//
